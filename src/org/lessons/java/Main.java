@@ -5,11 +5,11 @@ public class Main {
 public static void main(String[] args) {
 		
 		String[] likeFoods = {
-			"cibo 1",
-			"cibo 2",
-			"cibo 3",
-			"cibo 4",
-			"cibo 5",
+			"Churros",
+			"Chimichanga",
+			"Chimichurry",
+			"Cachangas",
+			"Chipotes",
 		};
 		
 		System.out.println("Quantità Cibi: " + likeFoods.length);
